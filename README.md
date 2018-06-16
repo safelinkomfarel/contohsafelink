@@ -1,0 +1,2 @@
+# contohsafelink
+cara buat safelink
